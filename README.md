@@ -11,7 +11,7 @@ Traditionally, a developer would simply install whatever applications they need 
 
 In contrast with traditional development environments, Toolbx can be used to build and run reproducible, isolated, and portable development environments with a single command. 
 
-## What is this project
+## What is this project?
 This project creates a Fedora toolbox with Codium - the open-source version of Visual Studio Code - pre-installed. As such, it provides a script to get you up and running with a bare bones development environment. 
 
 ## How do I run this? 
