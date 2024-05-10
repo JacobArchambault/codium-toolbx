@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Set desired name via CLI argument, but default to "toolbox"
+# Set desired name via CLI argument, but default to "codiumbox"
 name="${1:-codiumbox}"
 
 echo "Cleaning existing image and container(s) if any exist"
